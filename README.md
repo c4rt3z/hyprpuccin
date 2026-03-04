@@ -1,12 +1,9 @@
-# JhoalfercoHyprlandDotfiles
-Basic Hyprland dotfiles with catppuccin mocha color theme. I made the dotfiles for Arch Linux, but it should work well in other distros with minor changes 
+# hyprpuccin
+very cool hyprland dots (JhoalfercoHyprlandDotfiles + my changes)
 
 ## Features
 
-- Image-compatible clipboard
-- Dynamic hyprpaper configuration, just set variables for monitors and wallpapers in hyprland config
-- Theme selector (ToDo)
-- Shortcuts cheat sheet (ToDo)
+idk lol
 
 ## Dependencies
 - Hyprland
@@ -16,7 +13,6 @@ Basic Hyprland dotfiles with catppuccin mocha color theme. I made the dotfiles f
 - Waybar
 - Mako
 - Kitty
-- Zsh (I made a basic promp with chatgpt help :v)
 - Rofi
 - Gnome polkit
 - Pipewire and Pipewire-pulse
@@ -35,7 +31,7 @@ Also I recommend the catppuccin-gtk-theme-mocha from AUR
 
 ## How to install
 
-Just drop all the files in your home directory, adjust monitor and keyboard config in hyprland, battery monitoring in waybar (if needed), and enjoy :3
+install dependencies and drop files from config to ~/.config
 
 ## Screenshots
 
