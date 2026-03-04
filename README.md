@@ -22,7 +22,7 @@ idk lol
 - Grim
 - Slurp
 - Wl-clipboard
-- Ubuntu Nerd Font and FiraCode Nerd Font
+- Ubuntu Nerd Font and JetBrains Nerd Font
 - Firefox, Thunderbird, Nemo and Galculator (setted shortcuts for them, feel free to install the web and file browser you prefer)
 - Fastfetch (If you want flex your system)
 - Bluetui (I configure bluetooth with it)
